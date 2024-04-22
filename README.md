@@ -18,3 +18,9 @@ A simple Tic Tac Toe game in Python typically involves a grid representing the g
 DEMO:
 
 ![image](https://github.com/arshasuresh03/Tic-Tac-Toe/assets/160167081/a5fe437c-ec4e-4fdf-8c63-c0da456682ac)
+
+DEMO of CODE:
+
+![image](https://github.com/arshasuresh03/Tic-Tac-Toe/assets/160167081/96df5944-fb41-40de-b376-0910f4977ab8)
+![image](https://github.com/arshasuresh03/Tic-Tac-Toe/assets/160167081/40fea01e-a85d-46a6-a2d5-aaeab2e18e06)
+
